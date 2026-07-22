@@ -1,0 +1,15 @@
+over25-ai-platform/
+
+├── frontend/
+│   └── index.html
+│
+├── backend/
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── predictor.py
+│   ├── telegram_sender.py
+│   ├── scheduler.py
+│   └── requirements.txt
+│
+└── README.md
